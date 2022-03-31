@@ -1,0 +1,33 @@
+package royal;
+import com.A;
+import edu.B;
+import org.C;
+public class RoyalEducation {
+		public static void main(String []args){
+			A obj = new A();
+			B obj1 = new B();
+			C obj2 = new C();
+			RoyalEducation objRoyal = new RoyalEducation();
+
+		 public RoyalEducation(){
+
+				private int x,y,z;
+				x=20;
+				y=10;
+				
+	
+					}
+		}
+			public void div(){
+						z=x/y;
+						System.out.println("This is the answer:"+z);
+						
+						obj.A();
+						obj1.B();
+						obj2.C();
+						objRoyalEducation();
+	
+				        }
+
+
+}
